@@ -4,7 +4,7 @@ A smart, conversational chatbot built to help users easily track their product o
 
 ---
 
-## 🚀 Features
+##  Features
 
 -  Track order status by order ID
 -  Friendly conversational flow using chatbot logic
@@ -69,7 +69,7 @@ python chatbot.py
 
 \`\`\`
 User: Where is my order #4567?
-Bot: Your order #4567 is currently out for delivery 🚚
+Bot: Your order #4567 is currently out for delivery 
 \`\`\`
 
 ---
